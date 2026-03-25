@@ -1,4 +1,15 @@
-# IAM-Lab
+# Okta-Professional-Labs
+Lab 1: Okta Org Setup
+Steps Performed
+Created developer org
+Verified domain email
+Logged into Admin Console
+
+Screenshots
+All screenshots for this lab 1 are in the screenshots folder or click on the link below to view each step visually:
+
+View Screenshots
+
 Phase 1: User Creation (Joiner)
 This phase focuses on the initial onboarding of users into the Okta Directory and observing the lifecycle transition from Staged to Active.
 
